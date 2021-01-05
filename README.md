@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Oishi Akito.
 
 #### Languages
 Python/Go/PHP
